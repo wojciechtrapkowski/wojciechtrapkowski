@@ -14,7 +14,7 @@ Passionate about crafting interactive and innovative solutions for cross-platfor
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/wojciech-trapkowski-62020427a/)
-- [Portfolio/](https://wojciechtrapkowski.github.io/)
+- [Portfolio](https://wojciechtrapkowski.github.io/)
 
 Feel free to reach out for collaboration or to discuss exciting new opportunities. Let's code something! 🚀
 
