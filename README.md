@@ -7,7 +7,7 @@ Passionate about crafting interactive and innovative solutions for cross-platfor
 ## 🌟 Skills
 
 - Mobile App Development (Flutter, Blazor)
-- Web Development (HTML, CSS, JavaScript, Bootstrap)
+- Web Development (HTML, CSS, JavaScript, Bootstrap, React)
 - Backend Development (C, C++, C#, Python, Java)
 - Version Control with Git
 
