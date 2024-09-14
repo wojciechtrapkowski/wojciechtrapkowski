@@ -4,13 +4,13 @@ I’m a Computer Science student and a software engineer at Intel, specializing 
 
 ## 🌟 Skills
 
-	•	Languages: C++, Dart, PostgresSQL
-	•	Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake
-	•	Tools: Git, Docker, Visual Studio Code
+- Languages: C++, Dart, PostgresSQL
+- Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake
+- Tools: Git, Docker, Visual Studio Code
 
 ## 💼 Current Projects
 
-	•	Hitspot: An app I co-created where users can discover hidden gems around the world. It includes account creation, content uploading, and exploration features.
+- Hitspot: An app I co-created where users can discover hidden gems around the world. It includes account creation, content uploading, and exploration features.
 
 ## 📚 Learning & Growth
 
