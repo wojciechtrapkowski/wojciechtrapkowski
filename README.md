@@ -4,7 +4,7 @@ I’m a Computer Science student and a software engineer at Intel, specializing 
 
 ## 🌟 Skills
 
-- Languages: C++, Dart, PostgresSQL
+- Languages: C++, Python, Dart, PostgresSQL
 - Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake
 - Tools: Git, Docker, Visual Studio Code
 
