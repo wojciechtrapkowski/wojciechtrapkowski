@@ -1,21 +1,24 @@
 ﻿# Hello, I'm Wojciech 👋
 
-Student of computer science that is aspiring to be a Software Engineer. 👨‍💻
-
-Passionate about crafting interactive and innovative solutions for cross-platform mobile, web, and desktop applications.
+I’m a Computer Science student and a software engineer at Intel, specializing in 3D graphics and raytracing. I also have a strong passion for mobile app development and backend technologies. Here’s a bit more about me:
 
 ## 🌟 Skills
 
-- Mobile App Development (Flutter, Blazor)
-- Web Development (HTML, CSS, JavaScript, Bootstrap, React)
-- Backend Development (C, C++, C#, Python, Java)
-- Version Control with Git
+	•	Languages: C++, Dart, PostgresSQL
+	•	Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake
+	•	Tools: Git, Docker, Visual Studio Code
+
+## 💼 Current Projects
+
+	•	Hitspot: An app I co-created where users can discover hidden gems around the world. It includes account creation, content uploading, and exploration features.
+
+## 📚 Learning & Growth
+
+I’m always eager to learn and explore new opportunities in software engineering. Currently, I’m diving deeper into backend development, learning to create mobile apps, and enhancing my skills in managing large projects and advanced C++ techniques.
 
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/wojciech-trapkowski-62020427a/)
 - [Portfolio](https://wojciechtrapkowski.github.io/)
 
-Feel free to reach out for collaboration or to discuss exciting new opportunities. Let's code something! 🚀
-
-[![GitHub Followers](https://img.shields.io/github/followers/wojciechtrapkowski?label=Follow&style=social)](https://github.com/wojciechtrapkowski)
+Feel free to explore my repositories, check out my projects, and connect with me! 🚀
