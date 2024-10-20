@@ -1,11 +1,11 @@
 ﻿# Hello, I'm Wojciech 👋
 
-I’m a Computer Science student and a software engineer at Intel, specializing in 3D graphics and raytracing. I also have a strong passion for mobile app development and backend technologies. Here’s a bit more about me:
+I’m a Computer Science student and a software engineer at Intel, specializing in 3D graphics and raytracing. I also have a strong passion for artificial intelligence, mobile app development and backend technologies. Here’s a bit more about me:
 
 ## 🌟 Skills
 
 - Languages: C++, Python, Dart, PostgresSQL
-- Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake
+- Frameworks & Libraries: Flutter, Supabase, Firebase, Vulkan, DirectX, CMake, PyTorch
 - Tools: Git, Docker, Visual Studio Code
 
 ## 💼 Current Projects
